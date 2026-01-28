@@ -45,7 +45,7 @@ export default function EditProfile() {
         <div className="mt-14 flex justify-center">
           <button
             onClick={() => navigate('/settings')}
-            className="w-64 h-12 rounded-xl bg-green-500 text-white text-sm font-medium shadow-lg hover:bg-green-400 transition"
+            className="w-64 h-12 rounded-xl bg-green-500 text-white text-sm font-medium shadow-lg hover:bg-green-400 transition mr-35"
           >
             Save
           </button>
