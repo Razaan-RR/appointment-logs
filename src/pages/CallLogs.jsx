@@ -8,7 +8,7 @@ export default function CallLogs() {
 
   useEffect(() => {
     setTitle("Call Logs & History");
-  }, []);
+  }, [setTitle]);
 
   return (
     <div

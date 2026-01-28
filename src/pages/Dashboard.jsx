@@ -10,7 +10,7 @@ export default function Dashboard() {
 
   useEffect(() => {
     setTitle('Dashboard Overview')
-  }, [])
+  }, [setTitle])
 
   return (
     <div

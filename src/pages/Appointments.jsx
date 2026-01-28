@@ -8,7 +8,7 @@ function Appointments() {
 
   useEffect(() => {
     setTitle('Appointments')
-  }, [])
+  }, [setTitle])
   return (
     <div
       className="min-h-full px-8 py-6"
