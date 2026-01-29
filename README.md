@@ -1,4 +1,4 @@
-# 📊 AI Call Management Dashboard
+# 📊 AI Call Management
 
 A modern, responsive **AI-powered Call Management Dashboard** built with **React**, **React Router**, and **Tailwind CSS**.
 Designed with a polished dark UI to visualize call performance, AI automation, and appointment insights.
